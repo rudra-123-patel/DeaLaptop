@@ -1,6 +1,6 @@
 # DeaLaptop
 
-I made this project using HTML , CSS and Bootstrap card, I used basic JS for animation.
+I made a landing page for a personal project called DeaLaptop using HTML , CSS and Bootstrap card, I used basic JS for animation.
 
 ## Demo
 
